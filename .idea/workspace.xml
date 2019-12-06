@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6df3c683-24b4-493b-93c6-dbef295121b7" name="Default Changelist" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/0187bf66-8eaf-45cc-afc3-ee0e718fdb6c/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ba0fed6-e789-48c9-a628-5dd43db7dd65/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ba0fed6-e789-48c9-a628-5dd43db7dd65/console_1.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/6826a975-7ba0-4691-a7cc-5593e1351f50/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/d61a06e1-5b8c-473e-95a2-930a0eaaff3f/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/df2091d5-57a5-4075-adf0-4947b10986c9/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/blog.a5bc7547.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/celendar_php.93693ec.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/databaseanimals.8e6f7a2b.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/lab1.3.9.2.9388dd9a.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/lab1.4.1.3.b1ebbe09.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/my_first_project(ma).a04d2a95.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2019.1/system/workspace/taskcrm.aacbff88.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/patterns/classes/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/patterns/classes/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/patterns/classes/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/patterns/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_First_project(MA)/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TASKCRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PipedriveAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PipedriveEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Child.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Family.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/GrandChildren.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/GrandFather.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Man.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.2/.idea/lab1.4.1.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.3/.idea/lab1.4.1.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.1.3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.2.1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.2.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.1/.idea/lab1.4.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.3/.idea/lab1.4.3.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylab/lab1.4.3.4/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bonus-task/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/.idea/celendar_php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../celendar_php/teaching.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab 1.3.1/.idea/lab 1.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab 1.3.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab 1.3.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab 1.3.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.6/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.7/.idea/lab1.3.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.8/.idea/lab1.3.8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.9.2/.idea/lab1.3.9.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.9.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.9.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.9.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labki/lab1.3.9.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/public/css/starter-template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/lang/uk/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/lang/uk/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/lang/uk/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/lang/uk/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/auth/orders/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/basket/basket.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/basket/order.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/menu/menu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/menu/show_menu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/pizza/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-first-project-MA/pizza/resources/views/pizza/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-test/blog/resources/views/sessions/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-test/blog/resources/views/tasks/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel-test/blog/resources/views/tasks/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-blog/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-blog/obr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/.idea/lab2.1.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/Computer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooplab/lab2.1.3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testTaskMagneticOne/MOCK_DATA_TEST_TI.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables-constants/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables-constants/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables-constants/.idea/variables-constants.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables-constants/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables-constants/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/.idea/work_with_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_with_files/v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/.idea/workhome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/work_this_arrays/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/work_this_numbers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workhome/work_with_tapes/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipedriveAdapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PipedriveEntity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1396">
+              <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/PipedriveAdapter.php" />
+        <option value="$PROJECT_DIR$/PipedriveEntity.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="678" />
+    <option name="height" value="679" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TASKCRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TASKCRM" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df3c683-24b4-493b-93c6-dbef295121b7" name="Default Changelist" comment="" />
+      <created>1575593215162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575593215162</updated>
+      <workItem from="1575593221864" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="398000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PipedriveAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PipedriveEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1396">
+          <caret line="182" column="1" selection-start-line="182" selection-start-column="1" selection-end-line="182" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
